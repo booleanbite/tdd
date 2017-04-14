@@ -3,7 +3,7 @@
 """
 Created on Fri Apr 14 11:46:58 2017
 
-@author: victor
+@author: booleanbite
 """
 from calculadora import Calculadora
 
