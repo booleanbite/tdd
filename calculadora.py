@@ -16,7 +16,7 @@ class Calculadora:
         self.b=b
         
     def suma(self):
-        return self.a+self.b
+        return self.a-self.b
     
     def resta(self):
         return self.a-self.b
